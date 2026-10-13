@@ -1,0 +1,10 @@
+name: SpearSwapGuard
+version: '1.0.0'
+main: dev.sprgrd.SprGrd
+api-version: '1.20'
+author: wysss
+description: lets ppl use the spear swap mod on ur server
+permissions:
+  spearswapguard.allow:
+    description: lets u use spear swap
+    default: true
