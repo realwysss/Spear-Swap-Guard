@@ -18,6 +18,6 @@ drop the jar from the releases page into your plugins folder and restart. it is 
 
 ## about the code
 
-i do not have the original project anymore, so the code in `src` is decompiled from the jar. `res` has plugin.yml and config.yml.
+the code is in `src`. `res` has plugin.yml and config.yml.
 
 all rights reserved, see LICENSE.
