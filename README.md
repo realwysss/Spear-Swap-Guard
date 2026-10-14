@@ -1,3 +1,5 @@
+<p align="center"><img src="banner.png" width="420"></p>
+
 # spear swap guard
 
 a small paper plugin for server owners. it decides who can use the spear swap mod on your server.
