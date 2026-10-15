@@ -20,4 +20,4 @@ drop the jar from the releases page into your plugins folder and restart. it is 
 
 the code is in `src`. `res` has plugin.yml and config.yml.
 
-all rights reserved, see LICENSE.
+all rights reserved. made by wysss.
